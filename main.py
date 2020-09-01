@@ -53,6 +53,7 @@ try:
         plt.ion()
         plt.show()
 
+        # Adding a comment, this pauses the simulation so we can see it!
         plt.pause(0.001)
 
         for i in range(10):
